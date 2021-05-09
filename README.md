@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kuznecoff02
+- 👀 I’m interested in data science & French
+- 🌱 I’m currently a junior in statistics at UMN-TC
