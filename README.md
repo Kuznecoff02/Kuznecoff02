@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Kuznecoff02
-- 👀 I’m interested in data science & French
-- 🌱 I’m currently a junior in statistics at UMN-TC
+- 👀 I've got a bachelor's degree in statistics & french (yes—an odd combination) from the University of Minnesota 
